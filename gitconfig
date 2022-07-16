@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = simona_barone@hotmail.com
+	name = Simona Barone
